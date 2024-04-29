@@ -1,0 +1,16 @@
+C:\Users\Hamza\source\repos\CafeApp\bin\Debug\net8.0-windows\CafeApp.exe
+C:\Users\Hamza\source\repos\CafeApp\bin\Debug\net8.0-windows\CafeApp.deps.json
+C:\Users\Hamza\source\repos\CafeApp\bin\Debug\net8.0-windows\CafeApp.runtimeconfig.json
+C:\Users\Hamza\source\repos\CafeApp\bin\Debug\net8.0-windows\CafeApp.dll
+C:\Users\Hamza\source\repos\CafeApp\bin\Debug\net8.0-windows\CafeApp.pdb
+C:\Users\Hamza\source\repos\CafeApp\obj\Debug\net8.0-windows\CafeApp.Form1.resources
+C:\Users\Hamza\source\repos\CafeApp\obj\Debug\net8.0-windows\CafeApp.csproj.GenerateResource.cache
+C:\Users\Hamza\source\repos\CafeApp\obj\Debug\net8.0-windows\CafeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamza\source\repos\CafeApp\obj\Debug\net8.0-windows\CafeApp.AssemblyInfoInputs.cache
+C:\Users\Hamza\source\repos\CafeApp\obj\Debug\net8.0-windows\CafeApp.AssemblyInfo.cs
+C:\Users\Hamza\source\repos\CafeApp\obj\Debug\net8.0-windows\CafeApp.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\source\repos\CafeApp\obj\Debug\net8.0-windows\CafeApp.dll
+C:\Users\Hamza\source\repos\CafeApp\obj\Debug\net8.0-windows\refint\CafeApp.dll
+C:\Users\Hamza\source\repos\CafeApp\obj\Debug\net8.0-windows\CafeApp.pdb
+C:\Users\Hamza\source\repos\CafeApp\obj\Debug\net8.0-windows\CafeApp.genruntimeconfig.cache
+C:\Users\Hamza\source\repos\CafeApp\obj\Debug\net8.0-windows\ref\CafeApp.dll
